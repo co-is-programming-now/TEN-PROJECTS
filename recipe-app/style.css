@@ -29,6 +29,7 @@ img {
     box-shadow: 0 0 10px 2px #3333331a;
     border-radius: 3px;
     width: 400px;
+    margin: 2rem;
 }
 
 header {
@@ -39,7 +40,7 @@ header {
 }
 
 header input {
-    background-color: #eee;
+    background-color: #eeeeee75;
     border: none;
     border-radius: 3px;
     font-family: inherit;
@@ -55,7 +56,7 @@ header button {
 }
 
 .fav-container {
-    background-color: rgba(241, 224, 252, 0.453);
+    background-color: rgba(230, 252, 224, 0.53);
     padding: 0.25rem 1rem;
     text-align: center;
 }
@@ -101,7 +102,7 @@ header button {
 .meal-header .random {
     position: absolute;
     top: 1rem;
-    background-color:  #fff;
+    background-color:  #ffffffdb;
     padding: 0.25rem 1rem;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
@@ -134,5 +135,5 @@ header button {
 
 }
 .meal-body .fav-btn.active{
-    color: rebeccapurple;
+    color: rgb(51, 153, 63);
 }
